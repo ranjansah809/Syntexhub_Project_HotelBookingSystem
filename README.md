@@ -15,6 +15,11 @@ A Java CLI-based Hotel Booking Management System developed during the Syntexhub 
 - Scanner Class
 - Arrays / Classes
 
+  ## Project Link
+
+🔗 GitHub Repository:
+https://github.com/ranjansah809/Syntexhub_Project_HotelBookingSystem
+
 ## Project Structure
 - Main.java
 - HotelManagement.java

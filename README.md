@@ -21,5 +21,16 @@ A Java CLI-based Hotel Booking Management System developed during the Syntexhub 
 - Room.java
 
 ## Author
+
 Ranjan Sah
-B.Tech CSE | Galgotias University
+
+B.Tech Computer Science Engineering
+Galgotias University (2022–2026)
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/sahranjan
+
+GitHub:
+https://github.com/ranjansah809
